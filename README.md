@@ -9,3 +9,6 @@ Insert data into DB
 Delete data
 <br>
 Update data
+
+<strong>NOTE:</strong>
+All files must be in "htdocs" folder of xampp in installed directory of xampp server
